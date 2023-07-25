@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    
+    <title>Document</title>
+</head>
+<body>
+    
+    <header class="top-container">
+        <div class="highscores" id="view-score">View Higscores</div>
+        <div class="hime">
+            <span class="time-left" id="seconds-left">30s</span>
+        </div>
+    </header>
+    
+    <main>
+        <div class="start" id="principalPage" >
+            <h2>Quiz Challenge</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi consequatur, ipsa quidem excepturi maxime asperiores fugit suscipit commodi hic vero porro. Consectetur hic assumend</p>
+            <button class="start-button button" id="start-quiz">Start Quizz</button>
+        </div>
+
+
+
+        <div class="questions-container hide" id="questions-container">
+        </div>
+       
+        
+
+        <div class="done-quiz hide" id="done-quiz" >
+            <h3>All done</h3>
+            <span class="score" id="score-container">your final score is 22</span>
+            <form class="name-container">
+                <label for="name">Enter initial</label>
+                <input type="text" id="name" required>
+                <button type="button" class="button" id="submit">Submit</button>
+            </form>
+            <form action=""></form>
+        </div>
+
+
+        <div class="final-highscores hide" id="all-score">
+            <H2>Highscores</H2>
+            <div class="listscore" id="all-list-score">
+
+            </div>
+            <button class=" button" id="restart-button">Go back</button>
+            <button class="button" id="clear-button">Clear Highscores</button>
+
+        </div>
+        
+        <div class="checker" id="check-container"></div>
+
+    </main>
+    <script defer src="./script.js"></script>
+</body>
+</html>

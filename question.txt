@@ -1,0 +1,140 @@
+{
+	id:"0",
+	question: "html stand for________?
+options:[
+"HighText Machine Language",
+"HyperText and links Markup Language",
+"HyperText Markup Language",
+"None of these",
+],
+correct: "HyperText Markup Language"
+},
+{
+  "id": "1",
+  "question": "¿Qué significa CSS en desarrollo web?",
+  "options": [
+    "Cascading Style Sheets",
+    "Cascading Script Sheets",
+    "Cascading Style Structures",
+    "Central Style Sheets"
+  ],
+  "correct": "Cascading Style Sheets"
+},
+{
+  "id": "2",
+  "question": "¿Cuál de las siguientes opciones NO es un lenguaje de programación web?",
+  "options": [
+    "HTML",
+    "JavaScript",
+    "Python",
+    "PHP"
+  ],
+  "correct": "Python"
+},
+{
+  "id": "3",
+  "question": "¿Qué lenguaje se utiliza para dar estilo a una página web?",
+  "options": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Java"
+  ],
+  "correct": "CSS"
+},
+{
+  "id": "4",
+  "question": "¿Cuál de las siguientes etiquetas HTML representa un encabezado de nivel 1?",
+  "options": [
+    "<h1>",
+    "<h2>",
+    "<h3>",
+    "<h4>"
+  ],
+  "correct": "<h1>"
+},
+{
+  "id": "5",
+  "question": "¿Cuál de los siguientes términos NO está relacionado con el desarrollo web?",
+  "options": [
+    "SEO",
+    "API",
+    "GPU",
+    "CMS"
+  ],
+  "correct": "GPU"
+},
+{
+  "id": "6",
+  "question": "¿Qué significa PHP en desarrollo web?",
+  "options": [
+    "Personal Hypertext Processor",
+    "Preprocessed Hypertext Pages",
+    "PHP: Hypertext Preprocessor",
+    "Pre Hypertext Processor"
+  ],
+  "correct": "PHP: Hypertext Preprocessor"
+},
+{
+  "id": "7",
+  "question": "¿Cuál de las siguientes etiquetas HTML se utiliza para crear una lista ordenada?",
+  "options": [
+    "<ol>",
+    "<ul>",
+    "<li>",
+    "<dl>"
+  ],
+  "correct": "<ol>"
+},
+{
+  "id": "8",
+  "question": "¿Cuál de las siguientes opciones representa un comentario en JavaScript?",
+  "options": [
+    "// Esto es un comentario",
+    "<!-- Esto es un comentario -->",
+    "/* Esto es un comentario */",
+    "** Esto es un comentario **"
+  ],
+  "correct": "// Esto es un comentario"
+},
+{
+  "id": "9",
+  "question": "¿Cuál de las siguientes opciones NO es un tipo de display en CSS?",
+  "options": [
+    "block",
+    "inline",
+    "hidden",
+    "static"
+  ],
+  "correct": "hidden"
+},
+{
+  "id": "10",
+  "question": "¿Qué hace el siguiente código en JavaScript? \n\n var x = 10; \n function incrementar() { \n   x++; \n   return x; \n }",
+  "options": [
+    "Define una función para incrementar el valor de x",
+    "Define una función para decrementar el valor de x",
+    "Define una función para multiplicar el valor de x",
+    "Define una función para dividir el valor de x"
+  ],
+  "correct": "Define una función para incrementar el valor de x"
+},
+{
+  "id": "11",
+  "question": "¿Qué etiqueta HTML se utiliza para cargar un archivo de JavaScript externo?",
+  "options": [
+    "<script>",
+    "<js>",
+    "<javascript>",
+    "<link>"
+  ],
+  "correct": "<script>"
+}
+
+
+
+
+
+
+
+

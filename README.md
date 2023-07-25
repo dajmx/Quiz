@@ -1,0 +1,1 @@
+It is a quiz with a timer and it shows if it is correct or not and the time is reduced for each error and at the end it shows the score
